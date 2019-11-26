@@ -1,0 +1,55 @@
+h3.title{
+    padding-left: 5px;
+    font-weight: 500;
+    margin: 10px 0;
+    position: relative;
+}
+.i-title{
+    margin-right: 5px;
+    font-weight: bold;
+}
+.span-title{
+    position: absolute;
+    right: 0px;
+    height:21px;
+    line-height: 21px;
+    color: #999;
+    font-size: 14px;
+    cursor: pointer;
+}
+.span-title>i{
+    font-weight: 100;
+}
+.text-color{
+    color:#3D3C41
+}
+.text-red{
+    color:red;
+    font-weight: 100;
+}
+.text-active{
+    color:#F2B300;
+}
+.f-right{
+    float:right;
+    font-size:12px
+}
+.tagTrue{
+    display: inline-block;
+    padding: 0 2px;
+    border: 1px solid #F2B300;
+    color: #F2B300;
+    background: rgba(242,179,0,0.2);
+}
+h5.resume-title{
+    color:#F2B300 ;
+    font-size: 14px;
+    margin: 10px 0;
+}
+.resume-list{
+    padding: 10px 0;
+    /* border-bottom: 1px solid #eeeeee; */
+}
+.resume-list>p{
+    margin: 5px 0;
+}
